@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Raiza03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Raiza03/Raiza03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Raiza03 u can also call me Rai
+- 👀 I’m interested in reading and learning new language
+- 🌱 I’m currently learning how to do Drive 
+- 💞️ I’m looking to collaborate on famous company like Google and Apple
+- 📫 How to reach me, you can email me at azinulo@gmail.com
